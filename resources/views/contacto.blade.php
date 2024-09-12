@@ -39,7 +39,7 @@
         <br>
 
         <label for="mensaje">Mensaje:</label><br>
-        <textarea name="mensaje" cols="30" rows="30"></textarea><br>
+        <textarea name="mensaje" cols="30" rows="4"></textarea><br>
 
         <input type="submit" value="Enviar">
     </form>
